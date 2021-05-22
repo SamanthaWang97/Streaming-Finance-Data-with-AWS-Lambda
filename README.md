@@ -21,7 +21,3 @@ Then we will be using AWS Glue to crawl through the S3 bucket and load the data 
 
 ### S3 Bucket
 ![cluster_iamge](assets/screenshot_of_s3_bucket.png)
-
-The README, in markdown, should contain the following items:
-A brief blurb describing the project and the technology leveraged to conduct your analysis. This ought to be brief and informational, in case folks in the future want to recreate your results.
-A screenshot of your AWS Kinesis configuration page (see appendix A below).
