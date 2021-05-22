@@ -3,8 +3,10 @@
 In this project, we will be streaming "real-time" data, processing the data, and dumping it into a S3 bucket that will analyzed and queried in AWS Athena.
 
 
-Below are the screenshots of my kinesis configuration and s3 bucket:
+### Kinesis Data Firehose Delivery Stream Monitoring
 ![cluster_iamge](assets/kinesis_config.png)
+
+### S3 Bucket
 ![cluster_iamge](assets/screenshot_of_s3_bucket.png)
 
 The README, in markdown, should contain the following items:
